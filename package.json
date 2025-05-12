@@ -9,6 +9,7 @@
     "commander": "^13.1.0",
     "crawlee": "^3.13.3",
     "figlet": "^1.8.1",
+    "inquirer": "^12.6.1",
     "playwright": "^1.52.0"
   },
   "scripts": {
