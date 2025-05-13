@@ -34,12 +34,6 @@ Start the crawler with:
 npm start 
 ```
 
-**Example:**
-
-```bash
-npm start
-```
-
 ---
 
 ## 🤝 Contributing
